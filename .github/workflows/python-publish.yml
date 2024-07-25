@@ -2,11 +2,11 @@ name: Python Package
 
 on:
     push:
-      branches: [ mainx ]
+      branches: [ main ]
       
 jobs:
     deploy:
-       runs-on: ubuntu-latest
+       runs-on: ubuntu-latestxxxx
        strategy:
          fail-fast: false
          matrix:
