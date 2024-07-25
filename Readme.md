@@ -1,3 +1,6 @@
+25/07/24
+[![Python Package](https://github.com/xvanausloos/udemy_mlops_cd/actions/workflows/python-publish.yml/badge.svg)](https://github.com/xvanausloos/udemy_mlops_cd/actions/workflows/python-publish.yml)
+
 #Simple Flask CD pipeline 
 
 1. Set up GitHub Account & Repo
